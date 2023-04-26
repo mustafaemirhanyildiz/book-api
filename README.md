@@ -2,7 +2,7 @@
 
 book-api with swagger 
 
-1.adım-> Projeyi fork edin 
+1.adım-> Projeyi fork edin npm install ile gerekli modulleri ekleyin
 
 2.adım->docker build -t bookapi . projeyi build edin 
 
